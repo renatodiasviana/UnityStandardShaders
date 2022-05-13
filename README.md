@@ -1,2 +1,2 @@
 # UnityStandardShaders
-Sharing about my job using Unityshader
+Sharing my job using Unity Shaders
