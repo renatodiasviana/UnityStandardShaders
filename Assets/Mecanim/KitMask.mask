@@ -1,0 +1,563 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: KitMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Kit_Arms
+    m_Weight: 1
+  - m_Path: Kit_Body
+    m_Weight: 1
+  - m_Path: Kit_Boots
+    m_Weight: 1
+  - m_Path: Kit_eyes
+    m_Weight: 1
+  - m_Path: Kit_Head
+    m_Weight: 1
+  - m_Path: Kit_Legs
+    m_Weight: 1
+  - m_Path: Rig_Kit
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_L/TegKnee_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_L/TegKnee_L/TegKnee_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_L/Tibia_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_L/Tibia_L/Instep_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_L/Tibia_L/Instep_L/TipFoot_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_L/Tibia_L/Instep_L/TipFoot_L/TipFoot_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_R/TegKnee_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_R/TegKnee_R/TegKnee_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_R/Tibia_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_R/Tibia_R/Instep_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_R/Tibia_R/Instep_R/TipFoot_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Femur_R/Tibia_R/Instep_R/TipFoot_R/TipFoot_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Hip_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Hip_L/Hip_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Hip_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Hip/Hip_R/Hip_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsBabyFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsBabyFinger_L/PhalangesProximalBabyFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsBabyFinger_L/PhalangesProximalBabyFinger_L/PhalangesMiddleBabyFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsBabyFinger_L/PhalangesProximalBabyFinger_L/PhalangesMiddleBabyFinger_L/PhalangesDistalBabyFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsBabyFinger_L/PhalangesProximalBabyFinger_L/PhalangesMiddleBabyFinger_L/PhalangesDistalBabyFinger_L/PhalangesDistalBabyFinger_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsBabyFinger_L/StretchBabyFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsBabyFinger_L/StretchBabyFinger_L/CtrlBabyFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsBabyFinger_L/StretchBabyFinger_L/CtrlBabyFinger_L/CtrlBabyFinger_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsIndexFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsIndexFinger_L/PhalangesProximalIndexFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsIndexFinger_L/PhalangesProximalIndexFinger_L/PhalangesMiddleIndexFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsIndexFinger_L/PhalangesProximalIndexFinger_L/PhalangesMiddleIndexFinger_L/PhalangesDistalIndexFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsIndexFinger_L/PhalangesProximalIndexFinger_L/PhalangesMiddleIndexFinger_L/PhalangesDistalIndexFinger_L/PhalangesDistalIndexFinger_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsIndexFinger_L/StretchIndexFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsIndexFinger_L/StretchIndexFinger_L/CtrlIndexFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsIndexFinger_L/StretchIndexFinger_L/CtrlIndexFinger_L/CtrlIndexFinger_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsMiddleFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsMiddleFinger_L/PhalangesProximalMiddleFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsMiddleFinger_L/PhalangesProximalMiddleFinger_L/PhalangesMiddleMiddleFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsMiddleFinger_L/PhalangesProximalMiddleFinger_L/PhalangesMiddleMiddleFinger_L/PhalangesDistalMiddleFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsMiddleFinger_L/PhalangesProximalMiddleFinger_L/PhalangesMiddleMiddleFinger_L/PhalangesDistalMiddleFinger_L/PhalangesDistalMiddleFinger_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsMiddleFinger_L/StretchMiddleFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsMiddleFinger_L/StretchMiddleFinger_L/CtrlMiddleFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsMiddleFinger_L/StretchMiddleFinger_L/CtrlMiddleFinger_L/CtrlMiddleFinger_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsRingFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsRingFinger_L/PhalangesProximalRingFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsRingFinger_L/PhalangesProximalRingFinger_L/PhalangesMiddleRingFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsRingFinger_L/PhalangesProximalRingFinger_L/PhalangesMiddleRingFinger_L/PhalangesDistalRingFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsRingFinger_L/PhalangesProximalRingFinger_L/PhalangesMiddleRingFinger_L/PhalangesDistalRingFinger_L/PhalangesDistalRingFinger_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsRingFinger_L/StretchRingFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsRingFinger_L/StretchRingFinger_L/CtrlRingFinger_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsRingFinger_L/StretchRingFinger_L/CtrlRingFinger_L/CtrlRingFinger_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsThumb_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsThumb_L/PhalangesProximalThumb_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsThumb_L/PhalangesProximalThumb_L/PhalangesMiddleThumb_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/MetacarpalsThumb_L/PhalangesProximalThumb_L/PhalangesMiddleThumb_L/PhalangesMiddleThumb_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/StretchFingers_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/StretchFingers_L/StretchFingers_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/StretchThumb_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/StretchThumb_L/CtrlThumb_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/Forearm_L/Wrist_L/StretchThumb_L/CtrlThumb_L/CtrlThumb_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/TagAncon_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_L/Arm_L/TagAncon_L/TagAncon_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsBabyFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsBabyFinger_R/PhalangesProximalBabyFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsBabyFinger_R/PhalangesProximalBabyFinger_R/PhalangesMiddleBabyFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsBabyFinger_R/PhalangesProximalBabyFinger_R/PhalangesMiddleBabyFinger_R/PhalangesDistalBabyFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsBabyFinger_R/PhalangesProximalBabyFinger_R/PhalangesMiddleBabyFinger_R/PhalangesDistalBabyFinger_R/PhalangesDistalBabyFinger_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsBabyFinger_R/StretchBabyFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsBabyFinger_R/StretchBabyFinger_R/CtrlBabyFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsBabyFinger_R/StretchBabyFinger_R/CtrlBabyFinger_R/CtrlBabyFinger_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsIndexFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsIndexFinger_R/PhalangesProximalIndexFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsIndexFinger_R/PhalangesProximalIndexFinger_R/PhalangesMiddleIndexFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsIndexFinger_R/PhalangesProximalIndexFinger_R/PhalangesMiddleIndexFinger_R/PhalangesDistalIndexFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsIndexFinger_R/PhalangesProximalIndexFinger_R/PhalangesMiddleIndexFinger_R/PhalangesDistalIndexFinger_R/PhalangesDistalIndexFinger_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsIndexFinger_R/StretchIndexFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsIndexFinger_R/StretchIndexFinger_R/CtrlIndexFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsIndexFinger_R/StretchIndexFinger_R/CtrlIndexFinger_R/CtrlIndexFinger_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsMiddleFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsMiddleFinger_R/PhalangesProximalMiddleFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsMiddleFinger_R/PhalangesProximalMiddleFinger_R/PhalangesMiddleMiddleFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsMiddleFinger_R/PhalangesProximalMiddleFinger_R/PhalangesMiddleMiddleFinger_R/PhalangesDistalMiddleFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsMiddleFinger_R/PhalangesProximalMiddleFinger_R/PhalangesMiddleMiddleFinger_R/PhalangesDistalMiddleFinger_R/PhalangesDistalMiddleFinger_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsMiddleFinger_R/StretchMiddleFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsMiddleFinger_R/StretchMiddleFinger_R/CtrlMiddleFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsMiddleFinger_R/StretchMiddleFinger_R/CtrlMiddleFinger_R/CtrlMiddleFinger_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsRingFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsRingFinger_R/PhalangesProximalRingFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsRingFinger_R/PhalangesProximalRingFinger_R/PhalangesMiddleRingFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsRingFinger_R/PhalangesProximalRingFinger_R/PhalangesMiddleRingFinger_R/PhalangesDistalRingFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsRingFinger_R/PhalangesProximalRingFinger_R/PhalangesMiddleRingFinger_R/PhalangesDistalRingFinger_R/PhalangesDistalRingFinger_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsRingFinger_R/StretchRingFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsRingFinger_R/StretchRingFinger_R/CtrlRingFinger_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsRingFinger_R/StretchRingFinger_R/CtrlRingFinger_R/CtrlRingFinger_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsThumb_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsThumb_R/PhalangesProximalThumb_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsThumb_R/PhalangesProximalThumb_R/PhalangesMiddleThumb_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/MetacarpalsThumb_R/PhalangesProximalThumb_R/PhalangesMiddleThumb_R/PhalangesMiddleThumb_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/StretchFingers_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/StretchFingers_R/StretchFingers_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/StretchThumb_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/StretchThumb_R/CtrlThumb_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/StretchThumb_R/CtrlThumb_R/CtrlThumb_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/Weapon
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/Forearm_R/Wrist_R/Weapon/Weapon_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/TagAncon_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Clavicle_R/Arm_R/TagAncon_R/TagAncon_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/CtrlClavicle_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/CtrlClavicle_L/CtrlAncon_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/CtrlClavicle_L/CtrlAncon_L/CtrlAncon_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/CtrlClavicle_L/CtrlWrist_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/CtrlClavicle_L/CtrlWrist_L/CtrlWrist_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/CtrlClavicle_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/CtrlClavicle_R/CtrlAncon_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/CtrlClavicle_R/CtrlAncon_R/CtrlAncon_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/CtrlClavicle_R/CtrlWrist_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/CtrlClavicle_R/CtrlWrist_R/CtrlWrist_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlEar_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlEar_L/CtrlEar_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlEar_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlEar_R/CtrlEar_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlEyes
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlEyes/CtrlEye_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlEyes/CtrlEye_L/CtrlEye_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlEyes/CtrlEye_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlEyes/CtrlEye_R/CtrlEye_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairFringe01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairFringe01/CtrlHairFringe01_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairFringe02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairFringe02/CtrlHairFringe02_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairFringe03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairFringe03/CtrlHairFringe03_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairFringe04
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairFringe04/CtrlHairFringe04_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairStrands_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairStrands_L/CtrlHairStrands_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairStrands_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlHairStrands_R/CtrlHairStrands_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytail
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytail/CtrlPonytail_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytailSecundary01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytailSecundary01/CtrlPonytailSecundary01_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytailSecundary02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytailSecundary02/CtrlPonytailSecundary02_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytailSecundary03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytailSecundary03/CtrlPonytailSecundary03_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytailSecundary04
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytailSecundary04/CtrlPonytailSecundary04_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytailSecundary05
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/CtrlPonytailSecundary05/CtrlPonytailSecundary05_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ear_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ear_L/Ear_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ear_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ear_R/Ear_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Eye_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Eye_L/Eye_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Eye_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Eye_R/Eye_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe01.01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe01.01/HairFringe01.02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe01.01/HairFringe01.02/HairFringe01.03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe01.01/HairFringe01.02/HairFringe01.03/HairFringe01.04
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe01.01/HairFringe01.02/HairFringe01.03/HairFringe01.04/HairFringe01.04_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe02.01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe02.01/HairFringe02.02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe02.01/HairFringe02.02/HairFringe02.03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe02.01/HairFringe02.02/HairFringe02.03/HairFringe02.03_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe03.01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe03.01/HairFringe03.02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe03.01/HairFringe03.02/HairFringe03.03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe03.01/HairFringe03.02/HairFringe03.03/HairFringe03.03_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe04.01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe04.01/HairFringe04.02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe04.01/HairFringe04.02/HairFringe04.03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairFringe04.01/HairFringe04.02/HairFringe04.03/HairFringe04.03_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_L/HairStrands01_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_L/HairStrands01_L/HairStrands02_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_L/HairStrands01_L/HairStrands02_L/HairStrands03_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_L/HairStrands01_L/HairStrands02_L/HairStrands03_L/HairStrands04_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_L/HairStrands01_L/HairStrands02_L/HairStrands03_L/HairStrands04_L/HairStrands04_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_R/HairStrands01_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_R/HairStrands01_R/HairStrands02_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_R/HairStrands01_R/HairStrands02_R/HairStrands03_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_R/HairStrands01_R/HairStrands02_R/HairStrands03_R/HairStrands04_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/HairStrands_R/HairStrands01_R/HairStrands02_R/HairStrands03_R/HairStrands04_R/HairStrands04_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ponytail01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ponytail01/Ponytail02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ponytail01/Ponytail02/Ponytail03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ponytail01/Ponytail02/Ponytail03/Ponytail04
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ponytail01/Ponytail02/Ponytail03/Ponytail04/Ponytail05
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ponytail01/Ponytail02/Ponytail03/Ponytail04/Ponytail05/Ponytail05_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ponytail03.001
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/Ponytail03.001/Ponytail03.001_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary01.01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary01.01/PonytailSecundary01.02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary01.01/PonytailSecundary01.02/PonytailSecundary01.03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary01.01/PonytailSecundary01.02/PonytailSecundary01.03/PonytailSecundary01.04
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary01.01/PonytailSecundary01.02/PonytailSecundary01.03/PonytailSecundary01.04/PonytailSecundary01.04_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary02.01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary02.01/PonytailSecundary02.02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary02.01/PonytailSecundary02.02/PonytailSecundary02.03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary02.01/PonytailSecundary02.02/PonytailSecundary02.03/PonytailSecundary02.04
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary02.01/PonytailSecundary02.02/PonytailSecundary02.03/PonytailSecundary02.04/PonytailSecundary02.04_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary03.01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary03.01/PonytailSecundary03.02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary03.01/PonytailSecundary03.02/PonytailSecundary03.03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary03.01/PonytailSecundary03.02/PonytailSecundary03.03/PonytailSecundary03.04
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary03.01/PonytailSecundary03.02/PonytailSecundary03.03/PonytailSecundary03.04/PonytailSecundary03.04_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary04.01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary04.01/PonytailSecundary04.02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary04.01/PonytailSecundary04.02/PonytailSecundary04.03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary04.01/PonytailSecundary04.02/PonytailSecundary04.03/PonytailSecundary04.04
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary04.01/PonytailSecundary04.02/PonytailSecundary04.03/PonytailSecundary04.04/PonytailSecundary04.04_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary05.01
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary05.01/PonytailSecundary05.02
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary05.01/PonytailSecundary05.02/PonytailSecundary05.03
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary05.01/PonytailSecundary05.02/PonytailSecundary05.03/PonytailSecundary05.04
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Neck/Head/PonytailSecundary05.01/PonytailSecundary05.02/PonytailSecundary05.03/PonytailSecundary05.04/PonytailSecundary05.04_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Rib_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Rib_L/Rib_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Rib_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/RotBase/MoveBack/Spine01/Spine02/Pectoral/Rib_R/Rib_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/CtrlTipFoot_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/CtrlTipFoot_L/CtrlTipFoot_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/RotBackFoot_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/RotBackFoot_L/RotBackFoot_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/RotHeel_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/RotHeel_L/CtrlRotTipFoot_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/RotHeel_L/CtrlRotTipFoot_L/RotTipFoot_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/RotHeel_L/CtrlRotTipFoot_L/RotTipFoot_L/Heel_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/RotHeel_L/CtrlRotTipFoot_L/RotTipFoot_L/Heel_L/CtrlKnee_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/RotHeel_L/CtrlRotTipFoot_L/RotTipFoot_L/Heel_L/CtrlKnee_L/CtrlKnee_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/RotHeel_L/CtrlRotTipFoot_L/RotTipFoot_L/Heel_L/CtrlTibia_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/RotHeel_L/CtrlRotTipFoot_L/RotTipFoot_L/Heel_L/CtrlTibia_L/CtrlFoot_L
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_L/RotHeel_L/CtrlRotTipFoot_L/RotTipFoot_L/Heel_L/CtrlTibia_L/CtrlFoot_L/CtrlFoot_L_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/CtrlTipFoot_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/CtrlTipFoot_R/CtrlTipFoot_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/RotBackFoot_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/RotBackFoot_R/RotBackFoot_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/RotHeel_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/RotHeel_R/CtrlRotTipFoot_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/RotHeel_R/CtrlRotTipFoot_R/RotTipFoot_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/RotHeel_R/CtrlRotTipFoot_R/RotTipFoot_R/Heel_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/RotHeel_R/CtrlRotTipFoot_R/RotTipFoot_R/Heel_R/CtrlKnee_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/RotHeel_R/CtrlRotTipFoot_R/RotTipFoot_R/Heel_R/CtrlKnee_R/CtrlKnee_R_end
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/RotHeel_R/CtrlRotTipFoot_R/RotTipFoot_R/Heel_R/CtrlTibia_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/RotHeel_R/CtrlRotTipFoot_R/RotTipFoot_R/Heel_R/CtrlTibia_R/CtrlFoot_R
+    m_Weight: 1
+  - m_Path: Rig_Kit/MoveBase/Sole_R/RotHeel_R/CtrlRotTipFoot_R/RotTipFoot_R/Heel_R/CtrlTibia_R/CtrlFoot_R/CtrlFoot_R_end
+    m_Weight: 1
